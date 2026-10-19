@@ -6,8 +6,7 @@
 
   <p align="center">
 
-    A fun project I made to warm up before my data application course.
-
+   This is my old portfolio. It's mostly just here as a fun reminder for myself
     <br />
 
     <a href="https://github.com/M-Renberg/Portfolio"><strong>Explore the docs »</strong></a>
